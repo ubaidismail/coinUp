@@ -1,0 +1,25 @@
+{
+	"folders": [
+		{
+			"path": "../.."
+		},
+		{
+			"path": "../../../react/react-first-app"
+		},
+		{
+			"path": "../../../../Downloads/wemates-booking"
+		},
+		{
+			"path": "../../../../Downloads/woocommerce"
+		},
+		{
+			"path": "../../../../Downloads/woocommerce-pdf-invoices-packing-slips"
+		},
+		{
+			"path": "../../../../Downloads/woocommerce-pdf-ips-pro"
+		},
+		{
+			"path": "../../../../Downloads/woocommerce-pdf-ips-templates"
+		}
+	]
+}
